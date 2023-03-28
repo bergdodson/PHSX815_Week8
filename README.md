@@ -8,4 +8,4 @@ This HW looks at Neyman construction. It creates a plot of real mu values and se
 This code depends on the `Random.py` code.
 
 ## HW 9 
-This contains the code for HW 9. To be posted later
+This contains the code for HW 9. `minimize.py` function uses pre-compiled libraries to minimize the function (x-5)^2 + 2.
